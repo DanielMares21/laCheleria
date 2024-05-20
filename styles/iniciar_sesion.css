@@ -1,0 +1,110 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{ 
+    color: black ;
+    background:white;
+}
+#contenedor{
+    background: white; 
+    margin: 0px auto;
+}
+.encabezado {
+    width: 100% ;
+    overflow: hidden;
+    background-color:  #ffd528;
+}
+
+.encabezado h1 {
+    font-family: luminari;
+    font-size: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    margin: 5%;
+}
+
+.encabezado img {   
+  float: left;
+  width : 13%;
+  position: relative;
+}
+
+.encabezado nav {
+  max-width: 100% ;
+  background-color:black ;
+  overflow: hidden;
+  
+}
+.encabezado a {
+    font-family: sans-serif ;
+    font-size: 15px;
+    text-decoration: none ;
+    float: right ;
+      padding: 2% 3%;
+      color: white;
+      text-align: right;
+      letter-spacing: 1px;
+}
+ img  {
+    border-radius:50px ;
+    margin-top: 10px;
+
+}
+header h1{
+    line-height: 100px;
+    font-family: luminari;
+}
+#menu{
+    background: #7a7772;
+}
+.nav a{
+    line-height: 35px;
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-size: 2.2em;
+}
+#principal p{
+    text-align: justify;
+    font-size: 1.4em;
+    font-family: Didot;
+}
+.contenedor{
+    margin-top: 5px;
+}
+#formulario{
+    text-align: center;
+    height: 270px;
+    width: 90%;
+    margin-top: 20px;
+    border: 1px solid black;
+    display: block;
+    margin-left: 50px;
+}
+.caja2{
+    width: 250px;
+    text-align: center;
+}
+footer *{
+    margin: 10px auto;
+}
+
+#adicional{
+    margin-top: 10px;
+}
+#boton{
+    margin-top: 10px;
+}
+.derechos{
+    text-align:center;
+}
+.div .form-control{
+    width: 20px;
+}
